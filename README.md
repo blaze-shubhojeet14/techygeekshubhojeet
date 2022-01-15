@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techygeekshubhojeet a.k.a Shubhojeet Choudhury
 - 👀 I’m interested in technology, science, graphics designing, video editing and programming
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python and C#
 - 📫 Reach me Email- shubhojeetchoudhury14@gmail.com
 
 <!---
